@@ -6,6 +6,7 @@ image: /assets/device_images/feit_electric-DIM-WIFI.webp
 template: '{"NAME":"Feit DIM/WIFI","GPIO":[0,107,0,108,0,0,0,0,0,0,0,0,0],"FLAG":0,"BASE":54}' 
 link: https://www.amazon.com/Feit-Electric-DIM-Compatible-Assistant/dp/B07SXDFH38
 link2: https://www.costco.com/feit-electric-smart-dimmer%2C-3-pack.product.100518151.html
+link3: https://www.menards.com/main/electrical/light-switches-dimmers-outlets/dimmer-controls/feit-electric-smart-wi-fi-dimmer/dimwifi/p-1560494221748-c-6321.htm?tid=7534416679486943489&ipos=1&exp=true
 mlink: https://www.feit.com/product/smart-wi-fi-dimmer/
 flash: tuya-convert
 category: switch
